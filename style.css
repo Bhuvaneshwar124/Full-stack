@@ -1,0 +1,30 @@
+form
+{color:brown;
+background-color:violet
+}
+
+input[type=text]
+{
+    background-color:rgb(168, 168, 243);
+}
+
+input[type=password]{
+    color: blueviolet;
+    background-color:rgb(168, 168, 243);
+}
+
+input[type=submit]{
+    background-color: rgb(18, 237, 51);
+    color: black;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+div{
+    display: block;
+    padding: 12%;
+    margin: 10%, 10%, 10%, 10%;
+    justify-content: center;
+    text-align: center;
+}
